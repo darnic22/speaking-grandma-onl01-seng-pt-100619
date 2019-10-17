@@ -13,4 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 speak_to_grandma
-if 
+if grandma= "HUH?! SPEAK UP, SONNY!"
+else grandma="NOT, NOT SINCE 1938!"
+elsif grandma="I LOVE YOU GRANDMA"
